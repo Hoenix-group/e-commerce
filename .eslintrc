@@ -1,0 +1,20 @@
+{
+  "extends": "eslint-config-airbnb",
+  "rules": {
+    "import/extensions": 0,
+    "import/no-unresolved": 0,
+    "import/no-extraneous-dependencies": "off",
+    "react/jsx-filename-extension": 0,
+    "react/forbid-prop-types": 0,
+    "global-require": 0,
+    "no-alert": 0,
+    "max-len": 0,
+    "no-console":0,
+    "linebreak-style": 0,
+    "arrow-body-style": 0
+  },
+  "globals": {
+    "__DEV__": true,
+    "alert": true
+  }
+}

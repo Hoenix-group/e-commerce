@@ -1,0 +1,7 @@
+{   
+    "host":"http://172.26.132.17:9001",
+    "path_access_token":"/authorizationserver/oauth/token",
+    "client_id":"tsk",
+    "client_secret":"tsk",
+    "path_occ":"/tskcommercewebservices/v2/fivestartsk"
+}

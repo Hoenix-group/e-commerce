@@ -1,0 +1,10 @@
+{   
+    "host":"http://localhost:8079",
+    //"host":"http://172.26.132.17:9001",
+    //"host":"http://10.206.204.230:9001",
+    //"host":"http://localhost:9001",
+    "path_access_token":"/authorizationserver/oauth/token",
+    "client_id":"tsk",
+    "client_secret":"tsk",
+    "path_occ":"/tskcommercewebservices/v2/fivestartsk"
+}
